@@ -2,6 +2,7 @@ name: metawavemedia
 favicon: null
 layout_spectrum: 0.50756
 typography_spectrum: 0.6003
+title: Metawave Media
 cta:
   domain: null
   bucket: null
