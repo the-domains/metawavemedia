@@ -4,7 +4,7 @@
         <description><![CDATA[Metawave Media]]></description>
         <link>https://thegrid.ai/metawavemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 03:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 03:52:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metawavemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/metawavemedia/c6ff77ff-08f6-4b98-b333-9b57d421dbbd/index.html</link>
             <guid isPermaLink="false">c6ff77ff-08f6-4b98-b333-9b57d421dbbd</guid>
             <pubDate>Mon, 21 Dec 2015 03:51:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Cubli: a cube that can jump up, balance, and 'walk']]></title>
+            <description><![CDATA[<article><h1>The Cubli: a cube that can jump up, balance, and 'walk'</h1><p>The Cubli is a 15 × 15 × 15 cm cube that can jump up and balance on its corner. Reaction wheels mounted on three faces of the cube rotate at high angular velocities and then brake suddenly, causing the Cubli to jump up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/614c9257f83682cb791892f0e2b3bce1fee03581.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=n_6p-1J551Y</link>
+            <guid isPermaLink="false">466342af-aadc-41d5-b105-6103034d5302</guid>
+            <pubDate>Mon, 21 Dec 2015 03:52:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://twobigears.com/</link>
             <guid isPermaLink="false">75e809a5-51d7-46bd-9c11-af3af789313e</guid>
             <pubDate>Thu, 10 Dec 2015 02:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76e1da53-22c0-4608-bbaa-519f290c7508.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/metawavemedia/434ff7cc-e40f-4c19-8df3-6a47be7ad00d/index.html</link>
-            <guid isPermaLink="false">434ff7cc-e40f-4c19-8df3-6a47be7ad00d</guid>
-            <pubDate>Thu, 10 Dec 2015 01:48:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
