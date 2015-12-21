@@ -1,7 +1,7 @@
 name: metawavemedia
 favicon: null
-layout_spectrum: 0.57913
-typography_spectrum: 0.6003
+layout_spectrum: 0.22665
+typography_spectrum: 0.46413
 title: Metawave Media
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#77aec9'
+    - '#376469'
+    - '#f6fcfc'
+    - '#112a38'
+    - '#a28767'
   brandStrength: 0.059551341691985726
-  lightness: 0.12000831891782582
-  saturation: 0.6873868433758616
+  lightness: 0.375
+  saturation: 0.375
   rhythmicContrast: 0.49036522884853184
 purpose: []
