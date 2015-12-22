@@ -4,7 +4,7 @@
         <description><![CDATA[Metawave Media]]></description>
         <link>https://thegrid.ai/metawavemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 11:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 11:26:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metawavemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/metawavemedia/c6ff77ff-08f6-4b98-b333-9b57d421dbbd/index.html</link>
             <guid isPermaLink="false">c6ff77ff-08f6-4b98-b333-9b57d421dbbd</guid>
             <pubDate>Mon, 21 Dec 2015 04:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6ba08b6-4e31-4011-81d8-f84f485ec1b8.png">]]></description>
+            <link>https://thegrid.ai/metawavemedia/10b106fe-9671-4458-96f7-c554f5149995/index.html</link>
+            <guid isPermaLink="false">10b106fe-9671-4458-96f7-c554f5149995</guid>
+            <pubDate>Tue, 22 Dec 2015 11:26:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/metawavemedia/53cfee40-acbf-4bd8-83c9-f803dd90d75a/index.html</link>
             <guid isPermaLink="false">53cfee40-acbf-4bd8-83c9-f803dd90d75a</guid>
             <pubDate>Mon, 21 Dec 2015 03:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A immersive transmedia company augmenting the space between the virtual and physical worlds.</p>]]></description>
-            <link>https://thegrid.ai/metawavemedia/a-immersive-transmedia-company-augmenting-the-space-between/index.html</link>
-            <guid isPermaLink="false">8a4fd714-29bf-44bc-a4a5-54b972a419a1</guid>
-            <pubDate>Mon, 21 Dec 2015 03:51:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
