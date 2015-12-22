@@ -4,7 +4,7 @@
         <description><![CDATA[Metawave Media]]></description>
         <link>https://thegrid.ai/metawavemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 11:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 11:26:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metawavemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/metawavemedia/c6ff77ff-08f6-4b98-b333-9b57d421dbbd/index.html</link>
             <guid isPermaLink="false">c6ff77ff-08f6-4b98-b333-9b57d421dbbd</guid>
             <pubDate>Mon, 21 Dec 2015 04:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6fcb098-8bee-4cb4-8619-28b1865c53e8.png">]]></description>
+            <link>https://thegrid.ai/metawavemedia/24b2e8a3-e31f-4034-902e-c45958f1350a/index.html</link>
+            <guid isPermaLink="false">24b2e8a3-e31f-4034-902e-c45958f1350a</guid>
+            <pubDate>Tue, 22 Dec 2015 11:25:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/metawavemedia/a-immersive-transmedia-company-augmenting-the-space-between/index.html</link>
             <guid isPermaLink="false">8a4fd714-29bf-44bc-a4a5-54b972a419a1</guid>
             <pubDate>Mon, 21 Dec 2015 03:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://metawavemedia.com/mw/Home_files/skyRange.png">]]></description>
-            <link>https://thegrid.ai/metawavemedia/5d24aa4d-403c-443d-9287-4d3a6f4f5dad/index.html</link>
-            <guid isPermaLink="false">5d24aa4d-403c-443d-9287-4d3a6f4f5dad</guid>
-            <pubDate>Mon, 21 Dec 2015 03:50:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
