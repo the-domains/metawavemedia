@@ -1,18 +1,24 @@
 ---
 description: "Metawave Media is a immersive transmedia company working beyond the normal field of view.\_ We consult and produce immersive hybrid media formats and properties "
+isBasedOnUrl: 'http://metawavemedia.com/mw/Home.html'
 author: []
-datePublished: '2015-12-21T03:54:14.850Z'
+datePublished: '2015-12-23T02:41:59.260Z'
 publisher:
-  domain: metawavemedia.com
   name: metawavemedia.com
-dateModified: '2015-12-21T03:46:48.500Z'
+  domain: metawavemedia.com
+  url: null
+  favicon: null
+dateModified: '2015-12-23T02:41:55.023Z'
 title: ''
 sourcePath: _posts/2015-12-21-metawave-media-is-a-immersive-transmedia-company-working-bey.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: metawave-media-is-a-immersive-transmedia-company-working-bey/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
