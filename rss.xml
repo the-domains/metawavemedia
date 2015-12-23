@@ -4,7 +4,7 @@
         <description><![CDATA[Metawave Media]]></description>
         <link>https://thegrid.ai/metawavemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 11:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 00:01:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metawavemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +68,6 @@
             <link>https://thegrid.ai/metawavemedia/67dc8bdb-f11e-4477-8c9e-a01bbb27b5d1/index.html</link>
             <guid isPermaLink="false">67dc8bdb-f11e-4477-8c9e-a01bbb27b5d1</guid>
             <pubDate>Mon, 21 Dec 2015 03:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://metawavemedia.com/mw/Home_files/MW_Media_Logo.jpg">]]></description>
-            <link>https://thegrid.ai/metawavemedia/53cfee40-acbf-4bd8-83c9-f803dd90d75a/index.html</link>
-            <guid isPermaLink="false">53cfee40-acbf-4bd8-83c9-f803dd90d75a</guid>
-            <pubDate>Mon, 21 Dec 2015 03:51:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
