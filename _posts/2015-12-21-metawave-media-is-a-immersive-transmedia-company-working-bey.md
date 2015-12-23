@@ -1,16 +1,15 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://metawavemedia.com/mw/Home.html'
 inLanguage: null
 starred: true
 keywords: []
 description: Why/What/How
-datePublished: '2015-12-23T02:52:29.210Z'
-dateModified: '2015-12-23T02:52:24.094Z'
+datePublished: '2015-12-23T02:55:25.184Z'
+dateModified: '2015-12-23T02:55:18.773Z'
 author: []
-title: WhatHowWhy
+title: WhyWhatHow
 sourcePath: _posts/2015-12-21-metawave-media-is-a-immersive-transmedia-company-working-bey.md
 published: true
 authors: []
@@ -19,6 +18,7 @@ publisher:
   domain: metawavemedia.com
   url: null
   favicon: null
+url: whywhathow/index.html
 _context: 'http://schema.org'
 _type: Article
 
